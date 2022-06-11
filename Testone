@@ -1,2 +1,5 @@
 Python as editor
 print("1")
+if A==a:
+print("not same ASCII code")
+
